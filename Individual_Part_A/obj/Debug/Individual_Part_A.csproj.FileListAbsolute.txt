@@ -1,0 +1,7 @@
+C:\Users\Dimitris\Desktop\C#\Individual_Part_A\Individual_Part_A\obj\Debug\Individual_Part_A.csprojAssemblyReference.cache
+C:\Users\Dimitris\Desktop\C#\Individual_Part_A\Individual_Part_A\obj\Debug\Individual_Part_A.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris\Desktop\C#\Individual_Part_A\Individual_Part_A\bin\Debug\uvl.exe.config
+C:\Users\Dimitris\Desktop\C#\Individual_Part_A\Individual_Part_A\bin\Debug\uvl.exe
+C:\Users\Dimitris\Desktop\C#\Individual_Part_A\Individual_Part_A\bin\Debug\uvl.pdb
+C:\Users\Dimitris\Desktop\C#\Individual_Part_A\Individual_Part_A\obj\Debug\uvl.exe
+C:\Users\Dimitris\Desktop\C#\Individual_Part_A\Individual_Part_A\obj\Debug\uvl.pdb
